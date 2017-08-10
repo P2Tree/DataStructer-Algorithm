@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Binary_Search.dir/main.cpp.o  -o Binary_Search.exe -Wl,--out-implib,libBinary_Search.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
