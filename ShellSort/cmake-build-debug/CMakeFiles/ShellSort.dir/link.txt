@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/ShellSort.dir/main.cpp.o  -o ShellSort.exe -Wl,--out-implib,libShellSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
