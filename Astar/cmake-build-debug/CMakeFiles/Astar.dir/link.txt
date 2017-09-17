@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Astar.dir/main.cpp.o CMakeFiles/Astar.dir/Astar.cpp.o  -o Astar.exe -Wl,--out-implib,libAstar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/WorkSpace/C++/DataStructer/DataStructer/Astar/Astar.cpp
+math.h
+-
+Astar.h
+/cygdrive/d/WorkSpace/C++/DataStructer/DataStructer/Astar/Astar.h
+
+/cygdrive/d/WorkSpace/C++/DataStructer/DataStructer/Astar/Astar.h
+vector
+-
+list
+-
+clocale
+-
+
+/cygdrive/d/WorkSpace/C++/DataStructer/DataStructer/Astar/main.cpp
+iostream
+-
+Astar.h
+/cygdrive/d/WorkSpace/C++/DataStructer/DataStructer/Astar/Astar.h
+
