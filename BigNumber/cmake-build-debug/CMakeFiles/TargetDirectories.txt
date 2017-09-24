@@ -1,0 +1,3 @@
+D:/WorkSpace/C++/BigNumber/cmake-build-debug/CMakeFiles/BigNumber.dir
+D:/WorkSpace/C++/BigNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WorkSpace/C++/BigNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,8 @@
-# Install script for directory: D:/WorkSpace/C++/DataStructer/DataStructer/LinkList
+# Install script for directory: D:/WorkSpace/C++/BigNumber
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/LinkList")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/BigNumber")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/WorkSpace/C++/DataStructer/DataStructer/LinkList/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/WorkSpace/C++/BigNumber/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

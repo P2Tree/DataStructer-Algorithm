@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/WorkSpace/C++/test33/main.cpp
-iostream
+D:/WorkSpace/C++/BigNumber/main.cpp
+stdio.h
 -
-vector
+memory.h
+-
+string.h
+-
+iostream
 -
 
